@@ -1,7 +1,7 @@
 <h1 align="center">Image Carousel</h1><br>
 <br>
 <p align="center">
-For Live preview: <a href="https://ash-win-n.github.io/image-carosel/">Image Carousel</a></p><br>
+For Live preview: <a href="https://ash-win-n.github.io/image-carousel/">Image Carousel</a></p><br>
 
 <p align="center">
 
